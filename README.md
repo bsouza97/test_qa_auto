@@ -14,9 +14,12 @@ Testes de aceitação:
 Link com testes de aceitação realizados: https://drive.google.com/open?id=1NL45nWU4oLu2KEJFevrm2qjWH3plh1c5
 
 Ferramentas utilizadas:
-Testes automatizados: Selenium.
-Testes de API: Postman
-Testes de aceitação: Planilha para controle das realizações de testes. 
+
+Testes automatizados: Selenium;
+
+Testes de API: Postman;
+
+Testes de aceitação: Planilha para controle das realizações de testes; 
 
 
 Enjoy.
