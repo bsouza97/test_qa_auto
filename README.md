@@ -10,4 +10,13 @@ A API proposta no teste foi testada com testes do postman.
 Link da collection com os testes: https://www.getpostman.com/collections/51adcc93bd3d8e39d626
 Os testes validam o retorno do status e o body da API.
 
+Testes de aceitação:
+Link com testes de aceitação realizados: https://drive.google.com/open?id=1NL45nWU4oLu2KEJFevrm2qjWH3plh1c5
+
+Ferramentas utilizadas:
+Testes automatizados: Selenium.
+Testes de API: Postman
+Testes de aceitação: Planilha para controle das realizações de testes. 
+
+
 Enjoy.
