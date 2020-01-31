@@ -1,8 +1,8 @@
 # test_qa_auto
 
 Testes Automatizados:
-- O primeiro teste ele realizar um registro normal de um cliente que apenas quer simular um investimento e após isso
-valida o valor final do investimento como assert.
+- O primeiro teste ele realiza um registro normal de um cliente que apenas quer simular um investimento e após isso
+valida o valor final do investimento com assert.
 - O segundo teste tenta realizar um investimento com menos de 20 reais e após a tentativa valida o erro apresentado.
 - O terceiro teste apenas tenta realizar um investimento sem dado algum e valida todos os erros apresentados.
 
