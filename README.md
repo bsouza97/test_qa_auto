@@ -1,35 +1,35 @@
 # test_qa_auto
 
 Testes Automatizados:
-- O primeiro teste ele realiza um registro normal de um cliente que apenas quer simular um investimento e após isso
-valida o valor final do investimento com assert.
-- O segundo teste tenta realizar um investimento com menos de 20 reais e após a tentativa valida o erro apresentado.
-- O terceiro teste apenas tenta realizar um investimento sem dado algum e valida todos os erros apresentados.
+- The first test performed a normal registration from a customer who only consults an investment and after that
+validates the final investment value.
+- The second test tries to make an investment with less than 20 R$ and after the attempt validates the error displayed.
+- The third test only tries to make an investment without any data and validates all errors presented.
 
-Para rodar os testes automatizados em diferentes OS siga as instuções abaixo:
+To run automated tests on different OS follow the instructions below:
 
-No arquivo ProjectConfig.java realize a seguinte alteração
+In the ProjectConfig.java file make the following change
 
-Exemplo:
+Exemple:
 
-Atual - System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
+Actual - System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
 
-Para Windows: System.setProperty("webdriver.chrome.driver", "drivers/wchromedriver.exe");
+For Windows: System.setProperty("webdriver.chrome.driver", "drivers/wchromedriver.exe");
 
-A API proposta no teste foi testada com testes do postman.
-Link da collection com os testes: https://www.getpostman.com/collections/51adcc93bd3d8e39d626
-Os testes validam o retorno do status e o body da API.
+The API proposed in the test was tested with postman.
+Link for collection with tests: https://www.getpostman.com/collections/51adcc93bd3d8e39d626
+The tests validate the return of status and body from API.
 
-Testes de aceitação:
-Link com testes de aceitação realizados: https://drive.google.com/open?id=1NL45nWU4oLu2KEJFevrm2qjWH3plh1c5
+Acceptance tests:
 
-Ferramentas utilizadas:
+Link with acceptance tests performed: https://drive.google.com/open?id=1NL45nWU4oLu2KEJFevrm2qjWH3plh1c5
 
-Testes automatizados: Selenium;
+Tools used:
 
-Testes de API: Postman;
+Automated testing: Selenium;
 
-Testes de aceitação: Planilha para controle das realizações de testes; 
+API Tests: Postman;
 
+Acceptance tests: Worksheet to control test performance; 
 
 Enjoy.
