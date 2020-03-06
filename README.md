@@ -1,6 +1,6 @@
 # test_qa_auto
 
-Testes Automatizados:
+Automated tests:
 - The first test performed a normal registration from a customer who only consults an investment and after that
 validates the final investment value.
 - The second test tries to make an investment with less than 20 R$ and after the attempt validates the error displayed.
